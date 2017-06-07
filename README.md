@@ -25,7 +25,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 ## Preliminary Schedule
 | # | Date | Lecture | Readings & Resources | Assignment |
 |:--|:-----|:--------|:---------------------|:-----------|
-|1. | Th 8/31 | [Introduction] | * [Biological data sciences in genome research (Schatz, 2015, Genome Research)](http://genome.cshlp.org/content/25/10/1417.full) <br> * [Big Data: Astronomical or Genomical? (Stephens et al, 2015, PLOS Biology)](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195) | [Sign Up for Piazza]() |
+|1. | Th 8/31 | Introduction | * [Biological data sciences in genome research (Schatz, 2015, Genome Research)](http://genome.cshlp.org/content/25/10/1417.full) <br> * [Big Data: Astronomical or Genomical? (Stephens et al, 2015, PLOS Biology)](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195) | [Sign Up for Piazza]() |
 |2. | Mon 9/4  | Labor Day Break! | | |
 |3. | Wed 9/6  | Lecture 1 | | |
 |4. | Mon 9/11 | Lecture 2 | | |
