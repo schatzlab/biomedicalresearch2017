@@ -17,7 +17,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 - [Piazza Discussion Board](https://piazza.com/jhu/fall2017/601452/home)
 
 ## Related Courses & Readings
-- [Applied Comparative Genomics by Aaron Quinlan](https://github.com/quinlan-lab/applied-computational-genomics)
+- [Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics)
 - [PLOS Computational Biology Translational Bioinformatics](http://collections.plos.org/translational-bioinformatics)
 - [Molecular Biology of the Gene (Watson et al)](https://www.amazon.com/Molecular-Biology-Gene-James-Watson/dp/0321762436/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=R6A5BW06E5RJB7GVSNPY)
 - [Biological Sequence Analysis (Durbin et al)](https://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
