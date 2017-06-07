@@ -26,36 +26,36 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 | # | Date | Lecture | Readings & Resources | Assignment |
 |:--|:-----|:--------|:---------------------|:-----------|
 |1. | Th 8/31 | Introduction | * [Biological data sciences in genome research (Schatz, 2015, Genome Research)](http://genome.cshlp.org/content/25/10/1417.full) <br> * [Big Data: Astronomical or Genomical? (Stephens et al, 2015, PLOS Biology)](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195) | [Sign Up for Piazza]() |
-|2. | Mon 9/4  | Labor Day Break! | | |
-|3. | Wed 9/6  | Lecture 1 | | |
-|4. | Mon 9/11 | Lecture 2 | | |
-|5. | Wed 9/13 | Faculty Research Presentation 1 | | |
-|6. | Mon 9/18 | Lecture 3 | | |
-|7. | Wed 9/20 | Faculty Research Presentation 2 | | |
-|8. | Mon 9/25 | Lecture 4 | | |
-|9. | Wed 9/27 | Faculty Research Presentation 3 | | |
-|10. | Mon 10/2 | Lecture 5 | | |
-|11. | Wed 10/4 | Faculty Research Presentation 4 | | |
-|12. | Mon 10/9 | Lecture 6 | | |
-|13. | Wed 10/11 | Faculty Research Presentation 5 | | |
-|14. | Mon 10/16 | Lecture 7 | | |
-|15. | Wed 10/18 | Faculty Research Presentation 6 | | |
-|16. | Mon 10/16 | Lecture 8 | | |
-|17. | Wed 10/18 | Faculty Research Presentation 7 | | |
-|18. | Mon 10/23 | Lecture 9 | | |
-|19. | Wed 10/25 | Faculty Research Presentation 8 | | |
-|20. | Mon 10/30 | Lecture 10 | | |
-|21. | Wed 11/1 | Faculty Research Presentation 9 | | |
-|22. | Mon 10/30 | Lecture 11 | | |
-|23. | Wed 11/1 | Faculty Research Presentation 10 | | |
-|24. | Mon 11/6 | Lecture 12 | | |
-|25. | Wed 11/8 | Faculty Research Presentation 11 | | |
-|26. | Mon 11/13 | Lecture 13 | | |
-|27. | Wed 11/15 | Faculty Research Presentation 12 | | |
-|28. | Mon 11/20 | Thanksgiving Break! | | |
-|29. | Wed 11/22 | Thanksgiving Break! | | |
-|30. | Mon 11/27 | Lecture 14 | | |
-|31. | Wed 11/29 | Faculty Research Presentation 13 | | |
-|32. | Mon 12/4 | Research Presenations I | | |
-|33. | Wed 12/6 | Reseach Presentations II | | |
+| | Mon 9/4  | *Labor Day Break!* | | |
+|2. | Wed 9/6  | Lecture 1 | | |
+|3. | Mon 9/11 | Lecture 2 | | |
+|4. | Wed 9/13 | Faculty Research Presentation 1 | | |
+|5. | Mon 9/18 | Lecture 3 | | |
+|6. | Wed 9/20 | Faculty Research Presentation 2 | | |
+|7. | Mon 9/25 | Lecture 4 | | |
+|8. | Wed 9/27 | Faculty Research Presentation 3 | | |
+|9. | Mon 10/2 | Lecture 5 | | |
+|10. | Wed 10/4 | Faculty Research Presentation 4 | | |
+|11. | Mon 10/9 | Lecture 6 | | |
+|12. | Wed 10/11 | Faculty Research Presentation 5 | | |
+|13. | Mon 10/16 | Lecture 7 | | |
+|14. | Wed 10/18 | Faculty Research Presentation 6 | | |
+|15. | Mon 10/16 | Lecture 8 | | |
+|16. | Wed 10/18 | Faculty Research Presentation 7 | | |
+|17. | Mon 10/23 | Lecture 9 | | |
+|18. | Wed 10/25 | Faculty Research Presentation 8 | | |
+|19. | Mon 10/30 | Lecture 10 | | |
+|20. | Wed 11/1 | Faculty Research Presentation 9 | | |
+|21. | Mon 10/30 | Lecture 11 | | |
+|22. | Wed 11/1 | Faculty Research Presentation 10 | | |
+|23. | Mon 11/6 | Lecture 12 | | |
+|24. | Wed 11/8 | Faculty Research Presentation 11 | | |
+|25. | Mon 11/13 | Lecture 13 | | |
+|26. | Wed 11/15 | Faculty Research Presentation 12 | | |
+| | Mon 11/20 | *Thanksgiving Break!* | | |
+| | Wed 11/22 | *Thanksgiving Break!* | | |
+|27. | Mon 11/27 | Lecture 14 | | |
+|28. | Wed 11/29 | Faculty Research Presentation 13 | | |
+|29. | Mon 12/4 | Research Presenations I | | |
+|30. | Wed 12/6 | Reseach Presentations II | | |
 
