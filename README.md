@@ -32,8 +32,8 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |5. | Mon 9/18 | Lecture 3: Statistics and Machine Learning | | |
 |6. | Wed 9/20 | Faculty Research Presentation 2: How to give a talk | | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
-|8. | Wed 9/27 | Faculty Research Presentation 3 | | Research Proposal |
-|9. | Mon 10/2 | Lecture 5: Personal Genome Analysis | | |
+|8. | Wed 9/27 | Faculty Research Presentation 3 | | |
+|9. | Mon 10/2 | Lecture 5: Personal Genome Analysis | | Research Proposal |
 |10. | Wed 10/4 | Faculty Research Presentation 4 | | |
 |11. | Mon 10/9 | Lecture 6: Gene Expression Analysis | | Exercise 3 |
 |12. | Wed 10/11 | Faculty Research Presentation 5 | | |
@@ -41,13 +41,13 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |14. | Wed 10/18 | Faculty Research Presentation 6 | | |
 |15. | Mon 10/16 | Lecture 8: Human Genetic Diseases | | Exercise 4 |
 |16. | Wed 10/18 | Faculty Research Presentation 7 | | |
-|17. | Mon 10/23 | Lecture 9: Cancer Genomics | | Exercise 5 |
+|17. | Mon 10/23 | Lecture 9: Cancer Genomics | |  |
 |18. | Wed 10/25 | Faculty Research Presentation 8 | | |
-|19. | Mon 10/30 | Lecture 10: Molecular Techniques 1 | | |
+|19. | Mon 10/30 | Lecture 10: Molecular Techniques 1 | | Exercise 5 |
 |20. | Wed 11/1 | Faculty Research Presentation 9 | | |
-|21. | Mon 10/30 | Lecture 11: Molecular Techniques 2 | | Exercise 6 |
+|21. | Mon 10/30 | Lecture 11: Molecular Techniques 2 | | |
 |22. | Wed 11/1 | Faculty Research Presentation 10 | | |
-|23. | Mon 11/6 | Lecture 12: Molecular Techniques 3 | | |
+|23. | Mon 11/6 | Lecture 12: Molecular Techniques 3 | | Exercise 6 |
 |24. | Wed 11/8 | Faculty Research Presentation 11 | | |
 |25. | Mon 11/13 | Lecture 13: Molecular Techniques 4 | | Interm Research Report |
 |26. | Wed 11/15 | Faculty Research Presentation 12 | | |
