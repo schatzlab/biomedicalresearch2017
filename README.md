@@ -18,7 +18,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 - [Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics)
 - [Molecular Biology of the Gene (Watson et al)](https://www.amazon.com/Molecular-Biology-Gene-James-Watson/dp/0321762436/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=R6A5BW06E5RJB7GVSNPY)
 - [Bioinformatics Algorithms: An Active Learning Approach (Compeau and Pevzner)](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374602)
-- [Unix and Perl for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/)
+- [Unix and Perl for Biologists (Bradnam et al)](http://korflab.ucdavis.edu/Unix_and_Perl/)
 
 ## Preliminary Schedule
 | # | Date | Lecture | Readings & Resources | Assignment |
