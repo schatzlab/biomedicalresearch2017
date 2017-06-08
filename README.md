@@ -33,7 +33,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |6. | Wed 9/20 | Faculty Research Presentation 2: How to give a talk | | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
 |8. | Wed 9/27 | Faculty Research Presentation 3 | | |
-|9. | Mon 10/2 | Lecture 5: Personal Genome Analysis | | Research Proposal |
+|9. | Mon 10/2 | Lecture 5: Personal Genome Analysis | | Research Proposal Due |
 |10. | Wed 10/4 | Faculty Research Presentation 4 | | |
 |11. | Mon 10/9 | Lecture 6: Gene Expression Analysis | | Exercise 3 |
 |12. | Wed 10/11 | Faculty Research Presentation 5 | | |
@@ -49,7 +49,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |22. | Wed 11/1 | Faculty Research Presentation 10 | | |
 |23. | Mon 11/6 | Lecture 12: Molecular Techniques 3 | | Exercise 6 |
 |24. | Wed 11/8 | Faculty Research Presentation 11 | | |
-|25. | Mon 11/13 | Lecture 13: Molecular Techniques 4 | | Interm Research Report |
+|25. | Mon 11/13 | Lecture 13: Molecular Techniques 4 | | Interm Research Report Due |
 |26. | Wed 11/15 | Faculty Research Presentation 12 | | |
 | | Mon 11/20 | *Thanksgiving Break!* | | |
 | | Wed 11/22 | *Thanksgiving Break!* | | |
