@@ -31,7 +31,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |5. | Mon 9/18 | Lecture 3: Statistics and Machine Learning | | |
 |6. | Wed 9/20 | [Faculty Research Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
-|8. | Wed 9/27 | Faculty Research Presentation 3 | | |
+|8. | Wed 9/27 | [Faculty Research Presentation 3: Ulrish Mueller](http://neuroscience.jhu.edu/research/faculty/129) | | |
 |9. | Mon 10/2 | Lecture 5: Personal Genome Analysis | | Research Proposal Due |
 |10. | Wed 10/4 | Faculty Research Presentation 4 | | |
 |11. | Mon 10/9 | Lecture 6: Gene Expression Analysis | | Exercise 3 |
