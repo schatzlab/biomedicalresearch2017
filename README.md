@@ -27,33 +27,33 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 | | Mon 9/4  | *Labor Day Break!* | | |
 |2. | Wed 9/6  | Lecture 1: Scientific Computing in Unix and Python | | |
 |3. | Mon 9/11 | Lecture 2: Statistics and Machine Learning | | Exercise 1 |
-|4. | Wed 9/13 | Faculty Research Presentation 1: How to give a talk | | |
+|4. | Wed 9/13 | Faculty Presentation 1: How to give a talk | | |
 |5. | Mon 9/18 | Lecture 3: Statistics and Machine Learning | | |
-|6. | Wed 9/20 | [Faculty Research Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | | |
+|6. | Wed 9/20 | [Faculty Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
-|8. | Wed 9/27 | [Faculty Research Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | | |
+|8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | | |
 |9. | Mon 10/2 | Lecture 5: Personal Genome Analysis | | Research Proposal Due |
-|10. | Wed 10/4 | Faculty Research Presentation 4 | | |
+|10. | Wed 10/4 | Faculty Presentation 4 | | |
 |11. | Mon 10/9 | Lecture 6: Gene Expression Analysis | | Exercise 3 |
-|12. | Wed 10/11 | Faculty Research Presentation 5 | | |
+|12. | Wed 10/11 | Faculty Presentation 5 | | |
 |13. | Mon 10/16 | Lecture 7: Gene Regulation Analysis | | |
-|14. | Wed 10/18 | Faculty Research Presentation 6 | | |
+|14. | Wed 10/18 | Faculty Presentation 6 | | |
 |15. | Mon 10/16 | Lecture 8: Human Genetic Diseases | | Exercise 4 |
-|16. | Wed 10/18 | Faculty Research Presentation 7 | | |
+|16. | Wed 10/18 | Faculty Presentation 7 | | |
 |17. | Mon 10/23 | Lecture 9: Cancer Genomics | |  |
-|18. | Wed 10/25 | Faculty Research Presentation 8 | | |
+|18. | Wed 10/25 | Faculty Presentation 8 | | |
 |19. | Mon 10/30 | Lecture 10: Molecular Techniques 1 | | Exercise 5 |
-|20. | Wed 11/1 | Faculty Research Presentation 9 | | |
+|20. | Wed 11/1 | Faculty Presentation 9 | | |
 |21. | Mon 10/30 | Lecture 11: Molecular Techniques 2 | | |
-|22. | Wed 11/1 | Faculty Research Presentation 10 | | |
+|22. | Wed 11/1 | Faculty Presentation 10 | | |
 |23. | Mon 11/6 | Lecture 12: Molecular Techniques 3 | | Exercise 6 |
-|24. | Wed 11/8 | Faculty Research Presentation 11 | | |
+|24. | Wed 11/8 | Faculty Presentation 11 | | |
 |25. | Mon 11/13 | Lecture 13: Molecular Techniques 4 | | Interm Research Report Due |
-|26. | Wed 11/15 | Faculty Research Presentation 12 | | |
+|26. | Wed 11/15 | Faculty Presentation 12 | | |
 | | Mon 11/20 | *Thanksgiving Break!* | | |
 | | Wed 11/22 | *Thanksgiving Break!* | | |
 |27. | Mon 11/27 | Lecture 14: Genomic Futures | | |
-|28. | Wed 11/29 | Faculty Research Presentation 13 | | |
+|28. | Wed 11/29 | Faculty Presentation 13 | | |
 |29. | Mon 12/4 | Research Presenations I | | Research Presentation |
 |30. | Wed 12/6 | Reseach Presentations II | | Research Presentation |
 |    | Wed 12/20 | Research Report Due | | Research Report Due |
