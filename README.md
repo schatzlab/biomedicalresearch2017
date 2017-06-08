@@ -2,10 +2,10 @@
 Class Hours: Monday + Wednesday @ 3p - 3:50p in Malone 107 <br>
 Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 
-**The goal of this course is to prepare undergraduates to understand and perform state-of-the-art biomedical research.** This will be accomplished through three main components: (1) classroom-style lectures on cross cutting techniques for biomedical research focusing on data visualization, statistical inference, and scientific computing; (2) research presentations from distinguished faculty on their active research projects; and (3) a major research project to be performed under the mentorship of a professor. Students will present their research during an in-class symposium at the end of the semester. Grading will be based on homework exercises, a written research proposal, an oral research presentation, and a final research report.
+**The goal of this course is to prepare undergraduates to understand and perform state-of-the-art biomedical research.** This will be accomplished through three main components: (1) classroom-style lectures on cross cutting techniques for biomedical research focusing on data visualization, statistical inference, and scientific computing; (2) research presentations from distinguished faculty on their active research projects; and (3) a major research project to be performed under the mentorship of a JHU professor. Students will present their research during an in-class symposium at the end of the semester. Grading will be based on homework exercises, a written research proposal, an interm research report, an oral research presentation, and a final research report.
 
 ### Recommended Prerequisites
-- Online introduction to Unix/Linux. Students are strongly recommended to complete one of the following online tutorials (or both) before class begins. 
+- Online introduction to Unix/Linux. Students are strongly recommended to complete one of the following online tutorials before class begins. 
   - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
   - [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
   - [Unix and Perl for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/)
@@ -19,7 +19,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 ## Related Courses & Readings
 - [Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics)
 - [Molecular Biology of the Gene (Watson et al)](https://www.amazon.com/Molecular-Biology-Gene-James-Watson/dp/0321762436/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=R6A5BW06E5RJB7GVSNPY)
-- [Biological Sequence Analysis (Durbin et al)](https://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
+- [Bioinformatics Algorithms: An Active Learning Approach (Compeau and Pevzner)](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374602)
 
 ## Preliminary Schedule
 | # | Date | Lecture | Readings & Resources | Assignment |
