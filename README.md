@@ -53,8 +53,8 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 | | Mon 11/20 | *Thanksgiving Break!* | | |
 | | Wed 11/22 | *Thanksgiving Break!* | | |
 |27. | Mon 11/27 | Lecture 14: Genomic Futures | | |
-|28. | Wed 11/29 | Faculty Presentation 13 | | |
-|29. | Mon 12/4 | Research Presenations I | | Research Presentation |
-|30. | Wed 12/6 | Reseach Presentations II | | Research Presentation |
+|28. | Wed 11/29 | Research Presentations I | | Research Presentation |
+|29. | Mon 12/4  | Research Presenations II | | Research Presentation |
+|30. | Wed 12/6  | Reseach Presentations III | | Research Presentation |
 |    | Wed 12/20 | Research Report Due | | Research Report Due |
 
