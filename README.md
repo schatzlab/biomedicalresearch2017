@@ -39,7 +39,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |13. | Mon 10/16 | Lecture 7: Gene Regulation Analysis | | |
 |14. | Wed 10/18 | Faculty Presentation 6 | | |
 |15. | Mon 10/16 | Lecture 8: Human Genetic Diseases | | Exercise 4 |
-|16. | Wed 10/18 | Faculty Presentation 7 | | |
+|16. | Wed 10/18 | [Faculty Presentation 7: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
 |17. | Mon 10/23 | Lecture 9: Cancer Genomics | |  |
 |18. | Wed 10/25 | Faculty Presentation 8 | | |
 |19. | Mon 10/30 | Lecture 10: Molecular Techniques 1 | | Exercise 5 |
