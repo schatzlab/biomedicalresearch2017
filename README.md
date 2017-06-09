@@ -8,13 +8,13 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 - [Syllabus and Policies](https://github.com/schatzlab/biomedicalresearch/tree/master/policies)
 - [Piazza Discussion Board](https://piazza.com/jhu/fall2017/601452/home)
 
-### Recommended Prerequisites
+#### Recommended Prerequisites
 - Online introduction to Unix/Linux. Students are strongly recommended to complete one of the following online tutorials before class begins. 
   - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
   - [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
 - Access to a Linux Machine, or Install [VirtualBox](https://github.com/schatzlab/appliedgenomics/blob/master/assignments/virtualbox.md) (Unfortuantely, even Mac will not work correctly for some programs)
 
-## Related Courses & Readings
+#### Related Courses & Readings
 - [Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics)
 - [Molecular Biology of the Gene (Watson et al)](https://www.amazon.com/Molecular-Biology-Gene-James-Watson/dp/0321762436/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=R6A5BW06E5RJB7GVSNPY)
 - [Bioinformatics Algorithms: An Active Learning Approach (Compeau and Pevzner)](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374602)
