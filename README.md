@@ -33,7 +33,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
 |8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | | |
 |9. | Mon 10/2 | Lecture 5: Personal Genome Analysis | | Research Proposal Due |
-|10. | Wed 10/4 | Faculty Presentation 4 | | |
+|10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | | |
 |11. | Mon 10/9 | Lecture 6: Gene Expression Analysis | | Exercise 3 |
 |12. | Wed 10/11 | Faculty Presentation 5 | | |
 |13. | Mon 10/16 | Lecture 7: Gene Regulation Analysis | | |
