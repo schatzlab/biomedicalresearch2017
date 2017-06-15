@@ -35,7 +35,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |9. | Mon 10/2 | Lecture 5: Personal Genome Analysis | | Research Proposal Due |
 |10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | | |
 |11. | Mon 10/9 | Lecture 6: Gene Expression Analysis | | Exercise 3 |
-|12. | Wed 10/11 | Faculty Presentation 5 | | |
+|12. | Wed 10/11 | [Faculty Presentation 5: Alexis Battle](battlelab.jhu.edu) | | |
 |13. | Mon 10/16 | Lecture 7: Gene Regulation Analysis | | |
 |14. | Wed 10/18 | Faculty Presentation 6 | | |
 |15. | Mon 10/16 | Lecture 8: Human Genetic Diseases | | Exercise 4 |
