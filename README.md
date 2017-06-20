@@ -47,7 +47,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |21. | Mon 10/30 | Lecture 11: Molecular Techniques 2 | | |
 |22. | Wed 11/1 | Faculty Presentation 10 | | |
 |23. | Mon 11/6 | Lecture 12: Molecular Techniques 3 | | Exercise 6 |
-|24. | Wed 11/8 | Faculty Presentation 11 | | |
+|24. | Wed 11/8 | [Faculty Presentation 11: Ben Langmead](http://www.langmead-lab.org/) | | |
 |25. | Mon 11/13 | Lecture 13: Molecular Techniques 4 | | Interm Research Report Due |
 |26. | Wed 11/15 | Faculty Presentation 12 | | |
 | | Mon 11/20 | *Thanksgiving Break!* | | |
