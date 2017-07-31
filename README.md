@@ -44,17 +44,15 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |18. | Wed 10/25 | Faculty Presentation 8 | | |
 |19. | Mon 10/30 | Lecture 10: Molecular Techniques 1 | | Exercise 5 |
 |20. | Wed 11/1 | Faculty Presentation 9 | | |
-|21. | Mon 10/30 | Lecture 11: Molecular Techniques 2 | | |
-|22. | Wed 11/1 | Faculty Presentation 10 | | |
-|23. | Mon 11/6 | Lecture 12: Molecular Techniques 3 | | Exercise 6 |
-|24. | Wed 11/8 | [Faculty Presentation 11: Ben Langmead](http://www.langmead-lab.org/) | | |
-|25. | Mon 11/13 | Lecture 13: Molecular Techniques 4 | | Interm Research Report Due |
-|26. | Wed 11/15 | Faculty Presentation 12 | | |
+|21. | Mon 11/6 | Lecture 11: Molecular Techniques 3 | | Exercise 6 |
+|22. | Wed 11/8 | [Faculty Presentation 10: Ben Langmead](http://www.langmead-lab.org/) | | |
+|23. | Mon 11/13 | Lecture 12: Molecular Techniques 4 | | Interm Research Report Due |
+|24. | Wed 11/15 | Faculty Presentation 11 | | |
 | | Mon 11/20 | *Thanksgiving Break!* | | |
 | | Wed 11/22 | *Thanksgiving Break!* | | |
-|27. | Mon 11/27 | Lecture 14: Genomic Futures | | |
-|28. | Wed 11/29 | Research Presentations I | | Research Presentation |
-|29. | Mon 12/4  | Research Presenations II | | Research Presentation |
-|30. | Wed 12/6  | Reseach Presentations III | | Research Presentation |
+|25. | Mon 11/27 | Lecture 13: Genomic Futures | | |
+|26. | Wed 11/29 | Research Presentations I | | Research Presentation |
+|27. | Mon 12/4  | Research Presenations II | | Research Presentation |
+|28. | Wed 12/6  | Reseach Presentations III | | Research Presentation |
 |    | Wed 12/20 | Research Report Due | | Research Report Due |
 
