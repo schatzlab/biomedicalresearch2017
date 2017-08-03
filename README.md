@@ -44,10 +44,10 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |18. | Wed 10/25 | Faculty Presentation 8 | | |
 |19. | Mon 10/30 | Lecture 10: Molecular Techniques 1 | | Exercise 5 |
 |20. | Wed 11/1 | Faculty Presentation 9 | | |
-|21. | Mon 11/6 | Lecture 11: Molecular Techniques 3 | | Exercise 6 |
+|21. | Mon 11/6 | Lecture 11: Molecular Techniques 2 | | Exercise 6 |
 |22. | Wed 11/8 | [Faculty Presentation 10: Ben Langmead](http://www.langmead-lab.org/) | | |
-|23. | Mon 11/13 | Lecture 12: Molecular Techniques 4 | | Interm Research Report Due |
-|24. | Wed 11/15 | Faculty Presentation 11 | | |
+|23. | Mon 11/13 | [Faculty Presentation 11: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | | Interm Research Report Due |
+|24. | Wed 11/15 | Lecture 12: Molecular Techniques 3 | | |
 | | Mon 11/20 | *Thanksgiving Break!* | | |
 | | Wed 11/22 | *Thanksgiving Break!* | | |
 |25. | Mon 11/27 | Lecture 13: Genomic Futures | | |
