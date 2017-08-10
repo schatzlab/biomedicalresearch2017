@@ -27,7 +27,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 | | Mon 9/4  | *Labor Day Break!* | | |
 |2. | Wed 9/6  | Lecture 1: Scientific Computing in Unix and Python | | |
 |3. | Mon 9/11 | Lecture 2: Statistics and Machine Learning | | Exercise 1 |
-|4. | Wed 9/13 | Faculty Presentation 1: How to give a talk | | |
+|4. | Wed 9/13 | Faculty Presentation 1. | | |
 |5. | Mon 9/18 | Lecture 3: Statistics and Machine Learning | | |
 |6. | Wed 9/20 | [Faculty Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
