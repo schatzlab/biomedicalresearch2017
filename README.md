@@ -26,16 +26,16 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |1. | Th 8/31 | Introduction | * [Biological data sciences in genome research (Schatz, 2015, Genome Research)](http://genome.cshlp.org/content/25/10/1417.full) <br> * [Big Data: Astronomical or Genomical? (Stephens et al, 2015, PLOS Biology)](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195) | [Sign Up for Piazza]() |
 | | Mon 9/4  | &#x1F538; *Labor Day Break!* | | |
 |2. | Wed 9/6  | Lecture 1: Scientific Computing in Unix and Python | | |
-|3. | Mon 9/11 | [Faculty Presentation 1: Alan Yuille](http://www.cs.jhu.edu/~ayuille/) | | |
+|3. | Mon 9/11 | [Faculty Presentation 1: Alan Yuille](http://www.cs.jhu.edu/~ayuille/) | Compositional Cognition, Vision, and Learning | |
 |4. | Wed 9/13 | Lecture 2: Statistics and Machine Learning | | Exercise 1 |
 |5. | Mon 9/18 | Lecture 3: Statistics and Machine Learning | | |
-|6. | Wed 9/20 | [Faculty Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | | |
+|6. | Wed 9/20 | [Faculty Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | Single-molecule analysis of complex biological systems. | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
-|8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | | |
+|8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | Autitory Perception and Development of Neocortical Circuits | |
 |9. | Mon 10/2 | Lecture 5: Understanding the ribosome - Rachel Green | | Research Proposal Due |
-|10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | | |
+|10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | Computational Biology and Genomics | |
 |11. | Mon 10/9 | Lecture 6: Personal Genome Analysis | | Exercise 3 |
-|12. | Wed 10/11 | [Faculty Presentation 5: Alexis Battle](http://battlelab.jhu.edu) | | |
+|12. | Wed 10/11 | [Faculty Presentation 5: Alexis Battle](http://battlelab.jhu.edu) | Understanding the impact of human genetic variation on complex traits | |
 |13. | Mon 10/16 | Lecture 7: Gene Expression Analysis | | Exercise 4|
 |16. | Wed 10/18 | [Faculty Presentation 6: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
 |17. | Mon 10/23 | Lecture 8: Human Genetic Diseases | |  |
@@ -43,8 +43,8 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |19. | Mon 10/30 | Lecture 9: Cancer Genomics | | Exercise 5 |
 |20. | Wed 11/1 | Faculty Presentation 8 | | |
 |21. | Mon 11/6 | Lecture 10: Molecular Techniques 1 | | Exercise 6 |
-|22. | Wed 11/8 | [Faculty Presentation 9: Ben Langmead](http://www.langmead-lab.org/) | | |
-|23. | Mon 11/13 | [Faculty Presentation 10: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | | Interm Research Report Due |
+|22. | Wed 11/8 | [Faculty Presentation 9: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data| |
+|23. | Mon 11/13 | [Faculty Presentation 10: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | Epigenetics in development and disease | Interm Research Report Due |
 |24. | Wed 11/15 | Lecture 11: Molecular Techniques 2 | | |
 | | Mon 11/20 | &#x1F538; *Thanksgiving Break!* | | |
 | | Wed 11/22 | &#x1F538; *Thanksgiving Break!* | | |
