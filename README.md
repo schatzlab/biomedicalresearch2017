@@ -36,21 +36,19 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | | |
 |11. | Mon 10/9 | Lecture 6: Personal Genome Analysis | | Exercise 3 |
 |12. | Wed 10/11 | [Faculty Presentation 5: Alexis Battle](http://battlelab.jhu.edu) | | |
-|13. | Mon 10/16 | Lecture 7: Gene Expression Analysis | | |
-|14. | Wed 10/18 | Faculty Presentation 6 | | |
-|15. | Mon 10/16 | Lecture 8: Gene Regulation Analysis | | Exercise 4 |
-|16. | Wed 10/18 | [Faculty Presentation 7: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
-|17. | Mon 10/23 | Lecture 9: Human Genetic Diseases | |  |
-|18. | Wed 10/25 | Faculty Presentation 8 | | |
-|19. | Mon 10/30 | Lecture 10: Cancer Genomics | | Exercise 5 |
-|20. | Wed 11/1 | Faculty Presentation 9 | | |
-|21. | Mon 11/6 | Lecture 11: Molecular Techniques 1 | | Exercise 6 |
-|22. | Wed 11/8 | [Faculty Presentation 10: Ben Langmead](http://www.langmead-lab.org/) | | |
-|23. | Mon 11/13 | [Faculty Presentation 11: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | | Interm Research Report Due |
-|24. | Wed 11/15 | Lecture 12: Molecular Techniques 2 | | |
+|13. | Mon 10/16 | Lecture 7: Gene Expression Analysis | | Exercise 4|
+|16. | Wed 10/18 | [Faculty Presentation 6: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
+|17. | Mon 10/23 | Lecture 8: Human Genetic Diseases | |  |
+|18. | Wed 10/25 | Faculty Presentation 7 | | |
+|19. | Mon 10/30 | Lecture 9: Cancer Genomics | | Exercise 5 |
+|20. | Wed 11/1 | Faculty Presentation 8 | | |
+|21. | Mon 11/6 | Lecture 10: Molecular Techniques 1 | | Exercise 6 |
+|22. | Wed 11/8 | [Faculty Presentation 9: Ben Langmead](http://www.langmead-lab.org/) | | |
+|23. | Mon 11/13 | [Faculty Presentation 10: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | | Interm Research Report Due |
+|24. | Wed 11/15 | Lecture 11: Molecular Techniques 2 | | |
 | | Mon 11/20 | *Thanksgiving Break!* | | |
 | | Wed 11/22 | *Thanksgiving Break!* | | |
-|25. | Mon 11/27 | Lecture 13: Genomic Futures | | |
+|25. | Mon 11/27 | Lecture 12: Genomic Futures | | |
 |26. | Wed 11/29 | Research Presentations I | | Research Presentation |
 |27. | Mon 12/4  | Research Presenations II | | Research Presentation |
 |28. | Wed 12/6  | Reseach Presentations III | | Research Presentation |
