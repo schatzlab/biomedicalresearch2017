@@ -24,7 +24,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 | # | Date | Lecture | Readings & Resources | Assignment |
 |:--|:-----|:--------|:---------------------|:-----------|
 |1. | Th 8/31 | Introduction | * [Biological data sciences in genome research (Schatz, 2015, Genome Research)](http://genome.cshlp.org/content/25/10/1417.full) <br> * [Big Data: Astronomical or Genomical? (Stephens et al, 2015, PLOS Biology)](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195) | [Sign Up for Piazza]() |
-| | Mon 9/4  | <span style="color:red"> *Labor Day Break!* <span>| | |
+| | Mon 9/4  | &#x1F538; *Labor Day Break!* | | |
 |2. | Wed 9/6  | Lecture 1: Scientific Computing in Unix and Python | | |
 |3. | Mon 9/11 | [Faculty Presentation 1: Alan Yuille](http://www.cs.jhu.edu/~ayuille/) | | |
 |4. | Wed 9/13 | Lecture 2: Statistics and Machine Learning | | Exercise 1 |
@@ -46,8 +46,8 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |22. | Wed 11/8 | [Faculty Presentation 9: Ben Langmead](http://www.langmead-lab.org/) | | |
 |23. | Mon 11/13 | [Faculty Presentation 10: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | | Interm Research Report Due |
 |24. | Wed 11/15 | Lecture 11: Molecular Techniques 2 | | |
-| | Mon 11/20 | *Thanksgiving Break!* | | |
-| | Wed 11/22 | *Thanksgiving Break!* | | |
+| | Mon 11/20 | &#x1F538; *Thanksgiving Break!* | | |
+| | Wed 11/22 | &#x1F538; *Thanksgiving Break!* | | |
 |25. | Mon 11/27 | Lecture 12: Genomic Futures | | |
 |26. | Wed 11/29 | Research Presentations I | | Research Presentation |
 |27. | Mon 12/4  | Research Presenations II | | Research Presentation |
