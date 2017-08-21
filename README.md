@@ -28,7 +28,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |2. | Wed 9/6  | Lecture 1: Scientific Computing in Unix and Python | | |
 |3. | Mon 9/11 | [Faculty Presentation 1: Alan Yuille](http://www.cs.jhu.edu/~ayuille/) | Compositional Cognition, Vision, and Learning | |
 |4. | Wed 9/13 | Lecture 2: Statistics and Machine Learning | | Exercise 1 |
-|5. | Mon 9/18 | Lecture 3: Statistics and Machine Learning | | |
+|5. | Mon 9/18 | Lecture 3: Omics: Next generation sequencing | | |
 |6. | Wed 9/20 | [Faculty Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | Single-molecule analysis of complex biological systems. | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
 |8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | Autitory Perception and Development of Neocortical Circuits | |
