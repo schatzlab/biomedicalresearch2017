@@ -24,7 +24,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 | # | Date | Lecture | Readings & Resources | Assignment |
 |:--|:-----|:--------|:---------------------|:-----------|
 |1. | Th 8/31 | Introduction | * [Biological data sciences in genome research (Schatz, 2015, Genome Research)](http://genome.cshlp.org/content/25/10/1417.full) <br> * [Big Data: Astronomical or Genomical? (Stephens et al, 2015, PLOS Biology)](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195) | [Sign Up for Piazza]() |
-| | Mon 9/4  | *Labor Day Break!* | | |
+| | Mon 9/4  | <span style="color:red"> *Labor Day Break!* <span>| | |
 |2. | Wed 9/6  | Lecture 1: Scientific Computing in Unix and Python | | |
 |3. | Mon 9/11 | [Faculty Presentation 1: Alan Yuille](http://www.cs.jhu.edu/~ayuille/) | | |
 |4. | Wed 9/13 | Lecture 2: Statistics and Machine Learning | | Exercise 1 |
