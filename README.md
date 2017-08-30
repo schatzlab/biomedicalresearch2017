@@ -32,7 +32,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |6. | Wed 9/20 | [Faculty Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | Single-molecule analysis of complex biological systems. | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | Exercise 2 |
 |8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | Autitory Perception and Development of Neocortical Circuits | |
-|9. | Mon 10/2 | Lecture 5: Understanding the ribosome - Rachel Green | | Research Proposal Due |
+|9. | Mon 10/2 | [Lecture 5: Rachel Green](http://pages.jh.edu/~greenlab/) | Understanding the ribosome | Research Proposal Due |
 |10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | Computational Biology and Genomics | |
 |11. | Mon 10/9 | Lecture 6: Personal Genome Analysis | | Exercise 3 |
 |12. | Wed 10/11 | [Faculty Presentation 5: Alexis Battle](http://battlelab.jhu.edu) | Understanding the impact of human genetic variation on complex traits | |
