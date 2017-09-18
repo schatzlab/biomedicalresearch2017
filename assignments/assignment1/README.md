@@ -29,7 +29,7 @@ In this assignment, you will explore a few properties of the binomial, normal, a
 
 The [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) is another common probability distribution that is frequently needed from analyzing scientific data, especially when looking at count data. A simple example of it is a "balls in bins" experiment where N balls are distributed with uniform random probability into M bins and then counting how many balls are present in each in each bin. Other examples include comparing gene expression data, examining firing rates of neurons, or predicting the length of the line at the grocery store (and many, many others)
 
-- Question 2a. Implement a simulation where you randomly distribute 200 balls into 100 bins. Print the number of balls in each bin at the end of the simulation. [Hint: use a list to record how many balls are in each bin, and use random.randint() to figure out where each ball should land]
+- Question 2a. Implement a simulation where you randomly distribute 200 balls into 100 bins. Print the number of balls in each bin at the end of the simulation. [Hint: modify the dart throwing code to look at how many darts land in each bin; use a list to record how many balls are in each bin, and use random.randint() to figure out where each ball should land]
 
 - Question 2b. What is the mean and standard deviation of the number of balls in each bin?
 
@@ -37,7 +37,7 @@ The [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) i
 
 - Question 2d. Is the normal distribution a good fit for the observed distribution?
 
-- Question 2e. Repeat steps 2a through 2d but distributing 2,000 balls into 100 bins (implement, compute mean/stdev, plot, overlay, evaluate)
+- Question 2e. Repeat steps 2a through 2d but distributing 2,000 balls into 100 bins (Hint: make sure to do all steps: implement, compute mean/stdev, plot, overlay, evaluate)
 
 
 ### Packaging
