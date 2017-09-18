@@ -14,24 +14,24 @@ In this assignment, you will explore a few properties of the binomial, normal, a
 
 #### Question 1. Binomial Distributions [10 pts]
 
-- Question 1a. Modify the coin flip example to print 100 flips from an unbalanced coin where p(heads) = 40% [Hint: adjust random.randint()]
+- Question 1a. Modify the coin flip example to print 100 flips from an unbalanced coin where p(heads) = 40% [Hint: adjust random.randint() and adjust your test for heads]
 
-- Question 1b. What is the mean and standard deviation of the flip results after 100 trials, 1,000, trials, 10,000 trials, 50,000 trials, or 100,000 trials? Make a line plot of the relationship between the standard deviation and the number of trials
+- Question 1b. Plot the density of heads after 100 trials, 1000 trials, or 10,000 trials with 100 flips of the unbalanced coin? Qualitatively describe how the distribution changes with more trials.
 
-- Question 1c. Plot the density of heads after 100,000 trials with 100 flips of the unbalanced coin
+- Question 1c. What is the mean and standard deviation of the flip results after 10,000 trials? Overlay the binomial and normal distributions on the plots from 1b
 
-- Question 1d. Overlay the binomial and normal distributions on the plot from 1c (use the stdev from 100,000 trials)
+- Question 1d. What is the probability of seeing 25 heads in 100 flips from this unbalanced coin (p(heads) = .4)? Is this a statistically signficant result?
 
-- Question 1e. What is the probability of seeing 25 heads in 100 flips from this unbalanced coin?
+- Question 1e. What happens to the  mean and standard deviation if there are more flips per trial? Make a plot of the meand and standard deviation after 1,000 trials with 100 flips, 1,000 trials with 1000 flips, or 1,000 trials with 10,000 flips. Also plot the densities of these 3 different experiments.
 
 
 #### Question 2. Poisson Distributions [10 pts]
 
-The [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) is another common probability distribution that is frequently needed from analyzing scientific data, especially when looking at count data. A simple example of it is a "balls in bins" experiment where N balls are distributed with uniform random probability into M bins and then counting how many balls are present in each in each bin. Other examples include comparing gene expression data, examining firing rates of neurons, or predicting the length of the line at the grocery store (and many, many others)
+The [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) is another common probability distribution that is frequently needed from analyzing scientific data, especially count data. A simple example of it is a "balls in bins" experiment where N balls are distributed with uniform random probability into M bins and then counting how many balls are present in each in each bin. Other examples include comparing differences in gene expression data, examining firing rates of neurons, or predicting the length of the line at the grocery store (and many, many others)
 
-- Question 2a. Implement a simulation where you randomly distribute 200 balls into 100 bins. Print the number of balls in each bin at the end of the simulation. [Hint: modify the dart throwing code to look at how many darts land in each bin; use a list to record how many balls are in each bin, and use random.randint() to figure out where each ball should land]
+- Question 2a. Implement a simulation where you randomly distribute 200 balls into 100 bins. Print the number of balls in each bin at the end of the simulation. [Hint: modify the dart throwing code to look at how many darts land in each bin]
 
-- Question 2b. What is the mean and standard deviation of the number of balls in each bin?
+- Question 2b. What is the mean and standard deviation of the number of balls in each bin? [Hint: the dart throwing code looks at the distance between darts, here we are looking at the number of darts per bin)
 
 - Question 2c. Plot a histogram of the distribution of the number of balls distributed into each bin, and overlay with a normal distribution.
 
