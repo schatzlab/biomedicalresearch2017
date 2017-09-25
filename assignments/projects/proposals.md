@@ -9,10 +9,10 @@ The proposal should have the following components:
 - Your name
 - Email addresses
 - Dscription of what you hope to do and how you will do it:
--- What is the key question you hope to address?
--- What data will you use to study it? Are all the data you need available now? When will they be available?
--- What techniques (experimental or computational) will you use to generate and analyze the data?
--- What are the desired results?
+    - What is the key question you hope to address?
+    - What data will you use to study it? Are all the data you need available now? When will they be available?
+    - What techniques (experimental or computational) will you use to generate and analyze the data?
+    - What are the desired results?
 - References to relevant papers
 - References/URLs to datasets that you will be studying (Note you can also use simulated data)
 
