@@ -31,7 +31,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |5. | Mon 9/18 | [Lecture 3: Intro to the Exponential Distribution](https://github.com/schatzlab/biomedicalresearch/tree/master/lectures/05.BinomialExponential) | [Probability Notebooks](https://github.com/schatzlab/biomedicalresearch/tree/master/lectures/05.BinomialExponential) | [Exercise 1](https://github.com/schatzlab/biomedicalresearch/tree/master/assignments/assignment1) |
 |6. | Wed 9/20 | [Faculty Presentation 2: TJ Ha](https://www.bme.jhu.edu/faculty_staff/taekjip-ha-phd/) | Single-molecule analysis of complex biological systems. | |
 |7. | Mon 9/25 | Lecture 4: The human genome | | [Exercise 1 Due](https://github.com/schatzlab/biomedicalresearch/tree/master/assignments/assignment1); [Research Proposal Assigned](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/proposals.md) |
-|8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | Autitory Perception and Development of Neocortical Circuits | |
+|8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | Auditory Perception and Development of Neocortical Circuits | |
 |9. | Mon 10/2 | [Lecture 5: Rachel Green](http://pages.jh.edu/~greenlab/) | Understanding the ribosome | [Research Proposal Due](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/proposals.md); Exercise 2 Assigned|
 |10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | Computational Biology and Genomics | |
 |11. | Mon 10/9 | Lecture 6: Personal Genome Analysis | | Exercise 3 |
