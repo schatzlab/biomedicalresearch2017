@@ -8,7 +8,7 @@ The proposal should have the following components:
 - Short title for your proposal
 - Your name
 - Email addresses
-- Dscription of what you hope to do and how you will do it:
+- Description of what you hope to do and how you will do it:
     - What is the key question you hope to address?
     - What data will you use to study it? Are all the data you need available now? When will they be available?
     - What techniques (experimental or computational) will you use to generate and analyze the data?
