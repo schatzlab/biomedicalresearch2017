@@ -36,13 +36,13 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | Computational Biology and Genomics | |
 |11. | Mon 10/9 | [Lecture 6: Genome Sequencing](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/11.GenomeSequencing.pdf) | | |
 |12. | Wed 10/11 | [Faculty Presentation 5: Alexis Battle](http://battlelab.jhu.edu) | Understanding the impact of human genetic variation on complex traits | |
-|13. | Mon 10/16 | [Lecture 7: Genome Assembly](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/12.Assembly2.pdf) | | |
+|13. | Mon 10/16 | [Lecture 7: Genome Assembly](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/12.Assembly2.pdf) | | In class exercise |
 |16. | Wed 10/18 | [Faculty Presentation 6: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
-|17. | Mon 10/23 | Lecture 8: Human Genetic Diseases | |  |
+|17. | Mon 10/23 | Lecture 8: Human Genetic Diseases | | In class exercise |
 |18. | Wed 10/25 | [Faculty Presentation 7: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data | |
-|19. | Mon 10/30 | Lecture 9: Cancer Genomics | | Exercise 5 |
+|19. | Mon 10/30 | Lecture 9: Cancer Genomics | | Exercise 2 |
 |20. | Wed 11/1 | Faculty Presentation 8 | | |
-|21. | Mon 11/6 | Lecture 10: Molecular Techniques 1 | | Exercise 6 |
+|21. | Mon 11/6 | Lecture 10: Molecular Techniques 1 | | Exercise 3 |
 |22. | Wed 11/8 | Lecture 11: Molecular Techniques 2 | | |
 |23. | Mon 11/13 | [Faculty Presentation 9: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | Epigenetics in development and disease | Interm Research Report Due |
 |24. | Wed 11/15 | [Faculty Presentation 10: Rong Li](https://ronglilab.johnshopkins.edu/) | Cellular asymmetry, division and evolution| |
