@@ -37,20 +37,20 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |11. | Mon 10/9 | [Lecture 6: Genome Sequencing](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/11.GenomeSequencing.pdf) | | |
 |12. | Wed 10/11 | [Faculty Presentation 5: Alexis Battle](http://battlelab.jhu.edu) | Understanding the impact of human genetic variation on complex traits | |
 |13. | Mon 10/16 | [Lecture 7: Genome Assembly](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/12.Assembly2.pdf) | | In class exercise |
-|16. | Wed 10/18 | [Faculty Presentation 6: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
-|17. | Mon 10/23 | Lecture 8: Human Genetic Diseases | | In class exercise |
-|18. | Wed 10/25 | [Faculty Presentation 7: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data | |
-|19. | Mon 10/30 | Lecture 9: Cancer Genomics | | Exercise 2 |
-|20. | Wed 11/1 | Faculty Presentation 8 | | |
-|21. | Mon 11/6 | Lecture 10: Molecular Techniques 1 | | Exercise 3 |
-|22. | Wed 11/8 | Lecture 11: Molecular Techniques 2 | | |
-|23. | Mon 11/13 | [Faculty Presentation 9: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | Epigenetics in development and disease | Interm Research Report Due |
-|24. | Wed 11/15 | [Faculty Presentation 10: Rong Li](https://ronglilab.johnshopkins.edu/) | Cellular asymmetry, division and evolution| |
+|14. | Wed 10/18 | [Faculty Presentation 6: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
+|15. | Mon 10/23 | Lecture 8: Human Genetic Diseases | | In class exercise |
+|16. | Wed 10/25 | [Faculty Presentation 7: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data | |
+|17. | Mon 10/30 | Lecture 9: Cancer Genomics | | Exercise 2 |
+|18. | Wed 11/1 | Faculty Presentation 8 | | |
+|19. | Mon 11/6 | Lecture 10: Molecular Techniques 1 | | Exercise 3 |
+|20. | Wed 11/8 | Lecture 11: Molecular Techniques 2 | | |
+|21. | Mon 11/13 | [Faculty Presentation 9: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | Epigenetics in development and disease | Interm Research Report Due |
+|22. | Wed 11/15 | [Faculty Presentation 10: Rong Li](https://ronglilab.johnshopkins.edu/) | Cellular asymmetry, division and evolution| |
 | | Mon 11/20 | &#x1F538; *Thanksgiving Break!* | | |
 | | Wed 11/22 | &#x1F538; *Thanksgiving Break!* | | |
-|25. | Mon 11/27 | Lecture 12: Genomic Futures | | |
-|26. | Wed 11/29 | Research Presentations I | | Research Presentation |
-|27. | Mon 12/4  | Research Presenations II | | Research Presentation |
-|28. | Wed 12/6  | Reseach Presentations III | | Research Presentation |
+|23. | Mon 11/27 | Lecture 12: Genomic Futures | | |
+|24. | Wed 11/29 | Research Presentations I | | Research Presentation |
+|25. | Mon 12/4  | Research Presenations II | | Research Presentation |
+|26. | Wed 12/6  | Reseach Presentations III | | Research Presentation |
 |    | Wed 12/20 | Research Report Due | | Research Report Due |
 
