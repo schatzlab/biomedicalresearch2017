@@ -34,8 +34,8 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |8. | Wed 9/27 | [Faculty Presentation 3: Ulrich Mueller](http://neuroscience.jhu.edu/research/faculty/129) | Auditory Perception and Development of Neocortical Circuits | |
 |9. | Mon 10/2 | [Lecture 5: Rachel Green](http://pages.jh.edu/~greenlab/) | Understanding the ribosome | [Research Proposal Due](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/proposals.md)|
 |10. | Wed 10/4 | [Faculty Presentation 4: Steven Salzberg](https://salzberg-lab.org/) | Computational Biology and Genomics | |
-|11. | Mon 10/9 | [Lecture 6: Genome Sequencing](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/11.GenomeSequencing.pdf) | | |
-|12. | Wed 10/11 | [Faculty Presentation 5: Alexis Battle](http://battlelab.jhu.edu) | Understanding the impact of human genetic variation on complex traits | |
+|11. | Mon 10/9 | [Faculty Presentation 5: Alexis Battle](http://battlelab.jhu.edu) | Understanding the impact of human genetic variation on complex traits | |
+|12. | Wed 10/11 | [Lecture 6: Genome Sequencing](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/11.GenomeSequencing.pdf) | | |
 |13. | Mon 10/16 | [Lecture 7: Genome Assembly](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/12.Assembly2.pdf) | | In class exercise |
 |14. | Wed 10/18 | [Faculty Presentation 6: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
 |15. | Mon 10/23 | Lecture 8: Human Genetic Diseases | | In class exercise |
