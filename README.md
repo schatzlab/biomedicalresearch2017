@@ -38,12 +38,12 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |12. | Wed 10/11 | [Lecture 6: Genome Sequencing](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/11.GenomeSequencing.pdf) | * [Coming of age: ten years of next-generation sequencing technologies (Goodwin et al, 2016, Nature Reviews Genetics)](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html) <br> * [High‐throughput sequencing for biology and medicine (Soon et al, 2013, Molecular Systems Biology)](http://msb.embopress.org/content/9/1/640) | |
 |13. | Mon 10/16 | [Lecture 7: Genome Assembly](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/12.Assembly2.pdf) | * [De novo genome assembly: what every biologist should know (Baker, 2012, Nature Methods)](http://www.nature.com/nmeth/journal/v9/n4/full/nmeth.1935.html) | In class exercise |
 |14. | Wed 10/18 | [Faculty Presentation 6: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
-|15. | Mon 10/23 | Lecture 8: Human Genetic Diseases | | In class exercise |
-|16. | Wed 10/25 | [Faculty Presentation 7: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data | |
-|17. | Mon 10/30 | Lecture 9: Cancer Genomics | | Exercise 2 |
-|18. | Wed 11/1 | Faculty Presentation 8 | | |
-|19. | Mon 11/6 | Lecture 10: Molecular Techniques 1 | | Exercise 3 |
-|20. | Wed 11/8 | Lecture 11: Molecular Techniques 2 | | |
+|15. | Mon 10/23 | Lecture 8: Genetic Variation Analysis | |  |
+|16. | Wed 10/25 | Lecture 9: Human Evolution | | [Exercise 2](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/assignment2/README.md)
+|17. | Mon 10/30 | Lecture 9: Disease Genomics | | |
+|18. | Wed 11/1 | Faculty Presentation 7 | | |
+|19. | Mon 11/6 | [Faculty Presentation 8: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data | |
+|20. | Wed 11/8 | Lecture 10: Functional Genomics | | |
 |21. | Mon 11/13 | [Faculty Presentation 9: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | Epigenetics in development and disease | Interm Research Report Due |
 |22. | Wed 11/15 | [Faculty Presentation 10: Rong Li](https://ronglilab.johnshopkins.edu/) | Cellular asymmetry, division and evolution| |
 | | Mon 11/20 | &#x1F538; *Thanksgiving Break!* | | |
