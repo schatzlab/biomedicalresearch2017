@@ -25,6 +25,9 @@ Here are a few helpful resources:
 
 1b. Sketch the expected coverage distribution for this number of reads; be sure to clearly label the mean coverage, and how 40 fold coverage relates to the mean. (Hint: In a normal distribution, 68.2% of the data will be within 1 standard deviation, 95.4% within 2, 99.7% within 3, and 99.9% within 4)
 
+1c. Why might you want to sequence the genome any deeper than this? (In a few sentences)
+
+
 #### Question 2. de Bruijn graph construction [10pts]
 
 2a. Draw the de Bruijn graph for the following reads using k=3 (assume all reads are from the forward strand, no sequencing errors, complete coverage of the genome)
@@ -45,6 +48,8 @@ Here are a few helpful resources:
 
 2b. Write one possible genome sequence from this graph 
 (Hint: your solution should visit every node in the graph at least once)
+
+2c. Why might you want to use longer reads? (In a few sentences)
 
 ### Packaging
 
