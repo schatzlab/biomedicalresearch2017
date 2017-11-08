@@ -45,7 +45,7 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |19. | Mon 11/6 | [Faculty Presentation 8: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data | |
 |20. | Wed 11/8 | Lecture 10: Functional Genomics | | |
 |21. | Mon 11/13 | [Faculty Presentation 9: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | Epigenetics in development and disease | |
-|22. | Wed 11/15 | [Faculty Presentation 10: Rong Li](https://ronglilab.johnshopkins.edu/) | Cellular asymmetry, division and evolution| Interm Research Report Due |
+|22. | Wed 11/15 | [Faculty Presentation 10: Rong Li](https://ronglilab.johnshopkins.edu/) | Cellular asymmetry, division and evolution| [Interm Research Report Due](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/prelimreport.md) |
 | | Mon 11/20 | &#x1F538; *Thanksgiving Break!* | | |
 | | Wed 11/22 | &#x1F538; *Thanksgiving Break!* | | |
 |23. | Mon 11/27 | Lecture 12: Genomic Futures | | |
