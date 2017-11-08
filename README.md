@@ -40,15 +40,15 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 |14. | Wed 10/18 | [Faculty Presentation 6: Carl Wu](http://bio.jhu.edu/directory/carl-wu/) | Chromatin structure and the regulation of gene expression | |
 |15. | Mon 10/23 | [Lecture 8: Variant Calling](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/15.VariantCalling.pdf) | * [PolyBayes: A general approach to single-nucleotide polymorphism discovery (Marth et al, 1999, Nature Genetics)](http://www.nature.com/ng/journal/v23/n4/full/ng1299_452.html) <br> * [GATK: A framework for variation discovery and genotyping using next-generation DNA sequencing data (Depristo et al, 2011, Nature Genetics)](http://www.nature.com/ng/journal/v43/n5/full/ng.806.html) |  |
 |16. | Wed 10/25 | [Lecture 9: Human Evolution](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/16.HumanEvolution.pdf) | * [An integrated map of genetic variation from 1,092 human genomes (1000 Genomes Consortium, 2012, Nature)](http://www.nature.com/nature/journal/v491/n7422/full/nature11632.html) <br> * [Analysis of protein-coding genetic variation in 60,706 humans (Let et al, 2016, Nature)](http://www.nature.com/nature/journal/v536/n7616/full/nature19057.html) | [Exercise 2](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/assignment2/README.md)
-|17. | Mon 10/30 | [Lecture 9: Disease Genomics](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/17.HumanDisease.pdf) | * [Genome-Wide Association Studies (Bush & Moore, 2012, PLOS Comp Bio)](https://doi.org/10.1371/journal.pcbi.1002822) | |
-|18. | Wed 11/1 | [Faculty Presentation 7: Jennifer Doudna](http://rna.berkeley.edu/) | CRISPR Biology| |
-|19. | Mon 11/6 | [Faculty Presentation 8: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data | |
-|20. | Wed 11/8 | Lecture 10: Functional Genomics | | |
+|17. | Mon 10/30 | [Lecture 10: Disease Genomics](https://github.com/schatzlab/biomedicalresearch/blob/master/lectures/17.HumanDisease.pdf) | * [Genome-Wide Association Studies (Bush & Moore, 2012, PLOS Comp Bio)](https://doi.org/10.1371/journal.pcbi.1002822) | |
+|18. | Wed 11/1 | Graduate Student Panel |
+|19. | Mon 11/6 | [Faculty Presentation 7: Jennifer Doudna](http://rna.berkeley.edu/) | CRISPR Biology| |
+|20. | Wed 11/8 | [Faculty Presentation 8: Ben Langmead](http://www.langmead-lab.org/) | Efficient, Scalable, and Interpretable analysis of high throughput biological data | [Interm Research Report Assignment](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/prelimreport.md)
 |21. | Mon 11/13 | [Faculty Presentation 9: Andy Feinberg](http://www.hopkinsmedicine.org/profiles/results/directory/profile/5351655/andrew-feinberg-1) | Epigenetics in development and disease | |
 |22. | Wed 11/15 | [Faculty Presentation 10: Rong Li](https://ronglilab.johnshopkins.edu/) | Cellular asymmetry, division and evolution| [Interm Research Report Due](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/prelimreport.md) |
 | | Mon 11/20 | &#x1F538; *Thanksgiving Break!* | | |
 | | Wed 11/22 | &#x1F538; *Thanksgiving Break!* | | |
-|23. | Mon 11/27 | Lecture 12: Genomic Futures | | |
+|23. | Mon 11/27 | Lecture 11: Genomic Futures | | |
 |24. | Wed 11/29 | Research Presentations I | | Research Presentation |
 |25. | Mon 12/4  | Research Presenations II | | Research Presentation |
 |26. | Wed 12/6  | Reseach Presentations III | | Research Presentation |
