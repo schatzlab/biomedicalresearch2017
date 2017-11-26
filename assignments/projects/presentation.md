@@ -21,20 +21,20 @@ Presentations will be a total of 12 minutes: 10 minutes for the presentation, fo
 
 ### Schedule of Presentations
 
-Day      | Time      | Student                | Title 
----------|-----------|------------------------|--------------------------------------------------
-We 11/29 | 3:00-3:12 |  |
-We 11/29 | 3:12-3:24 |  |
-We 11/29 | 3:24-3:36 |  |
+Day      | Time      | Student           | Title 
+---------|-----------|-------------------|-------------------------------------------------------------------------------------------
+We 11/29 | 3:00-3:12 | Tatiana Romer     | Establishing an Improved Genome and Methylome for Manduca Sexta
+We 11/29 | 3:12-3:24 | Sophie Shoemaker  | AutoPhaser: Hedging our bets for phasing x-ray crystallography using molecular replacement 
+We 11/29 | 3:24-3:36 | George Botev	     | Fast Twister: Fast Haplotype Phasing 
 .
-Mo 12/4  | 3:00-3:12 | |
-Mo 12/4  | 3:12-3:24 | | 
-Mo 12/4  | 3:24-3:36 | |
+Mo 12/4  | 3:00-3:12 | Syed Usman Enam   | Regional mapping of RNA Binding Proteins on mRNA transcripts
+Mo 12/4  | 3:12-3:24 | Sun Jay Yoo       | High-Performance Software Pipeline for Single-Molecule Tracking Data Analysis 
+Mo 12/4  | 3:24-3:36 | David Li          | Mixture Models for Visual Concept Detection
 .
-We 12/6  | 3:00-3:12 | |
-We 12/6  | 3:12-3:24 | |
-We 12/6  | 3:24-3:36 | |
-We 12/6  | 3:36-3:48 | |
+We 12/6  | 3:00-3:12 | Elisabeth Wood    | Inferring ethnicity from whole genome single nucleotide polymorphisms
+We 12/6  | 3:12-3:24 | Amanda Laine	     | In situ detection of DNA repair alterations in cancer
+We 12/6  | 3:24-3:36 | Cathleen Nguyen   | Implementation of Precision Medicine in the Clinical Management of Oncological Patients
+We 12/6  | 3:36-3:48 | Kiki Chang        | Extending annotations in Comprehensive Human Expressed SequenceS
       
 <br>
 <br>
