@@ -49,8 +49,8 @@ Office Hours: Wednesday @ 4-5p in Malone 323 and by appointment
 | | Mon 11/20 | &#x1F538; *Thanksgiving Break!* | | |
 | | Wed 11/22 | &#x1F538; *Thanksgiving Break!* | | |
 |23. | Mon 11/27 | Lecture 11: Genomic Futures | | |
-|24. | Wed 11/29 | Research Presentations I | | Research Presentation |
-|25. | Mon 12/4  | Research Presenations II | | Research Presentation |
-|26. | Wed 12/6  | Reseach Presentations III | | Research Presentation |
-|    | Wed 12/20 | Research Report Due | | Research Report Due |
+|24. | Wed 11/29 | Research Presentations I | | [Research Presentation](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/presentation.md) |
+|25. | Mon 12/4  | Research Presenations II | | [Research Presentation](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/presentation.md) |
+|26. | Wed 12/6  | Reseach Presentations III | | [Research Presentation](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/presentation.md) |
+|    | Wed 12/20 | Research Report Due | | [Research Report Due](https://github.com/schatzlab/biomedicalresearch/blob/master/assignments/projects/finalreport.md) |
 
